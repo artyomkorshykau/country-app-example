@@ -1,0 +1,13 @@
+.button {
+	all: unset;
+	width: 5rem;
+	opacity: 50%;
+	font-size: 0.875rem;
+	line-height: 1.25rem;
+	text-align: end;
+
+	&:hover {
+		color: rgb(234, 78, 78);
+		opacity: 100%;
+	}
+}
